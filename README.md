@@ -1,5 +1,4 @@
 # Flickr8k Dataset
-------------------
 
 The official website for the Flickr 8k data is offline (although the [official request form](https://illinois.edu/fb/sec/1713398) still works).
 
